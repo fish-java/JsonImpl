@@ -1,11 +1,11 @@
-package com.github.fish56.json;
+package com.github.fish56.json.fastjson;
 
 import com.alibaba.fastjson.JSONObject;
 import com.github.fish56.json.entity.Article;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class JSON {
+public class Enums {
     /**
      * 测试下枚举值会如何的解析
      */
